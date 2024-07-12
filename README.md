@@ -33,7 +33,7 @@ customer         | customer_id
 скриншот
 ![скриншот](https://github.com/SeSloup/DB_init/blob/main/screens/05.png)
 
-[файл](https://github.com/SeSloup/DB_init/blob/main/requests/task 2.txt)
+[файл](<https://github.com/SeSloup/DB_init/blob/main/requests/task 2.txt>)
 
 ------------------------------------------------------------------------------------
 Спасибо за проверку !
